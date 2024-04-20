@@ -91,7 +91,6 @@ export default function App() {
             }
 
             stops.sort((a, b) => a - b);
-            console.log(stops);
 
             variants.push(
                 <Accordion key={count}>
