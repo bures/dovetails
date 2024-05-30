@@ -161,7 +161,7 @@ export default function App() {
                         label={`Pin width at base (in ${unit})`}
                         name="pin"
                         type="number"
-                        defaultValue={19}
+                        defaultValue={20}
                     />
                     <TextField
                         margin="normal"
